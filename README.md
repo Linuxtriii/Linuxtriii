@@ -10,7 +10,10 @@
 <h3 align="center">Bridging Design and Development</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on UI/UX designs  for modern web and mobile apps<br>🤝 I’m looking for help with improving accessibility, conducting user research, and front-end integration using React.js<br>🌱 I’m currently learning React.js, Tailwind CSS, and how to turn design prototypes into fully functional interfaces<br>💬 Ask me about how to make interfaces user-friendly, trends in modern UI design, or my favorite design tools<br>🔍 I love focusing on the small details that elevate a design and make a big difference.
+🐍 Python learner | 🎨 UI/UX designer  
+⚡ Exploring GenAI & building cool stuff  
+🚀 From ideas → design → real projects  
+✨ Obsessed with creating things that matter  
 
 
 
